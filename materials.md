@@ -72,7 +72,7 @@ shuffle_questions: false
 5. Saturday  
 ```
 
-Check out the Markdown source of this page to find out how.
+Check out the [Markdown source](https://github.com/c4r-io/website) of this page to find out how.
 
 ## Submitting and reviewing materials
 
