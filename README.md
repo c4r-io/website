@@ -8,7 +8,13 @@ Contains the source for the [`c4r.io`](https://c4r.io) website.
 
 The website is built through [jupyterbook](https://jupyterbook.org/en/stable/intro.html). This is a standard install with the furo theme and the quizdown extension enabled. 
 
-To develop, clone this repo. To build:
+## Small changes
+
+To fix typos, you can directly edit the website source through github. After committing, the site will be rebuilt and redeployed through netlify. It takes about 60 seconds to go from PR accepted to site redeployed.
+
+## Larger changes
+
+To make more substantial changes locally, clone this repo. To build:
 
 ```
 jupyter-book build .
