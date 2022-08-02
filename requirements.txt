@@ -1,0 +1,5 @@
+jupyter-book
+matplotlib
+numpy
+furo
+git+https://github.com/bonartm/sphinxcontrib-quizdown
